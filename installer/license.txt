@@ -1,0 +1,15 @@
+Before you start the Final Egg Exam, let's go over what we learned here in the Egg course.
+
+- We learned that Eggs are round. 
+- Eggs can sometimes deceive you. 
+- You learned how to make and read Egg diagrams.
+- Freeing Czederick from an egg.
+- You learned the difference between Chocolate Eggs and Chocolate that is egg-like.
+- We learned how to resolve UNCAUGHT BAD_TUMMY_FEELS. 
+- We learned Egg Patterns.
+- Applying Egg-Oriented Designs.
+- Accepting that Czederick is now Cz-egg-rick.
+- How to determine and possibly your EGG_CAPACITY.
+
+Remember, all of these concepts are available to review in the Egg-termediate Software Development notes.
+Ready to start your exam? Click the next button.

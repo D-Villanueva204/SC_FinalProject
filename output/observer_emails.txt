@@ -1,0 +1,30 @@
+---
+To: dog2@rrc.ca
+Subject: ALERT: Unusual Activity: 2025-04-01 22:44:13.545800
+Message: Notification for 1: Doug Mann: Low balance warning $20.00: on account 12.
+---
+---
+To: dog2@rrc.ca
+Subject: ALERT: Unusual Activity: 2025-04-01 22:44:13.545800
+Message: Notification for 1: Doug Mann: Large transaction $10,000.00: on account 12.
+---
+---
+To: dog2@rrc.ca
+Subject: ALERT: Unusual Activity: 2025-04-01 22:44:13.546801
+Message: Notification for 1: Doug Mann: Large transaction $3,000,000.00: on account 55.
+---
+---
+To: dog2@rrc.ca
+Subject: ALERT: Unusual Activity: 2025-04-01 22:44:13.546801
+Message: Notification for 1: Doug Mann: Low balance warning $0.00: on account 55.
+---
+---
+To: catperson4@rrc.ca
+Subject: ALERT: Unusual Activity: 2025-04-01 22:44:13.547502
+Message: Notification for 3: Kate Pearson: Large transaction $10,500.00: on account 80.
+---
+---
+To: catperson4@rrc.ca
+Subject: ALERT: Unusual Activity: 2025-04-01 22:44:13.547502
+Message: Notification for 3: Kate Pearson: Low balance warning $30.00: on account 80.
+---
