@@ -1,6 +1,11 @@
 name: "HCL AppScan CodeSweep"
 on:
   workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to scan'
+        required: true
+        default: 'main'
 jobs:
   scan:
     runs-on: ubuntu-latest
