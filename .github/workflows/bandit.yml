@@ -1,0 +1,29 @@
+---
+name: Bandit
+on:
+  push: 
+    branches:
+      - main
+      - dev
+  pull_request:
+    branches:
+      - main
+      - dev
+permissions: {}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: read
+      statuses: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Bandit Scan
+        uses: tj-actions/bandit@v5.2
+        with:
+          targets: "."
