@@ -1,5 +1,7 @@
 name: "HCL AppScan CodeSweep"
 on:
+  push:
+    branches: [ main, dev ]
   workflow_dispatch:
     inputs:
       branch:
