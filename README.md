@@ -42,4 +42,6 @@ defined and connected previously, which runs the behaviour of updating account d
 ## Filtering
 The filtering algorithm was implemented on client_lookup_window's on_filter_clicked method. It makes 
 use of the data in account_table, and checks if data in each row matches the criteria, and returns a collection (visually) of those matching items.
+
+bandit -r ./project -f html -o report.html
             
